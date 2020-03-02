@@ -1,0 +1,30 @@
+{
+  "name": "panda-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ewall1106/panda-cli.git"
+  },
+  "keywords": [],
+  "author": "Ewall&熊猫",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ewall1106/panda-cli/issues"
+  },
+  "homepage": "https://github.com/Ewall1106/panda-cli#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.0.5",
+    "ora": "^4.0.3"
+  },
+  "bin": {
+    "panda": "bin/panda"
+  }
+}
