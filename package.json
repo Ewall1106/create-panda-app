@@ -1,5 +1,5 @@
 {
-  "name": "@panda/cli",
+  "name": "create-panda-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ewall1106/panda-cli.git"
+    "url": "git+https://github.com/Ewall1106/create-panda-app.git"
   },
   "keywords": [],
   "author": "Ewall&熊猫",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Ewall1106/panda-cli/issues"
   },
