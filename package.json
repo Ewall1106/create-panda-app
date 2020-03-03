@@ -1,6 +1,6 @@
 {
   "name": "create-panda-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,9 @@
   "author": "Ewall&熊猫",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ewall1106/panda-cli/issues"
+    "url": "https://github.com/Ewall1106/create-panda-app/issues"
   },
-  "homepage": "https://github.com/Ewall1106/panda-cli#readme",
+  "homepage": "https://github.com/Ewall1106/create-panda-app#readme",
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.1.1",
