@@ -6,8 +6,8 @@ program
   .version(require("../package").version)
   // 定义使用方法
   .usage("<command> [options]")
-  // 编写四个指令
-  .command("add", "add a new template")
+  // 配置指令
+  .command("add", "add a new template").description('create new aaaaaaaaaaaa')
   .command("delete", "delete a template")
   .command("list", "list all the templates")
   .command("init", "generate a new project from a template");
